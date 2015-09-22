@@ -1,0 +1,13 @@
+target
+.classpath
+.project
+.settings
+.springBeans
+.log
+logs
+.bak
+.DS_Store
+.idea
+*.iml
+tianji-job-webapp/logs/
+.xlsx#
